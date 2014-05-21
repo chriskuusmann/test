@@ -1,3 +1,3 @@
 #Test
 
-Local conflict
+Local conflict fixed
