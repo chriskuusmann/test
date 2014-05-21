@@ -1,3 +1,3 @@
 #Test
 
-Test file
+Github sided conflict
